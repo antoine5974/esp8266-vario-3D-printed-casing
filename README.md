@@ -2,7 +2,7 @@
 A simple casing for Hari Nair's esp8266 vario
 
 
-Hari's esp8266 variometer repository: (https://github.com/har-in-air/ESP8266_MPU9250_MS5611_VARIO)
+Vario project repository: (https://github.com/har-in-air/ESP8266_MPU9250_MS5611_VARIO)
 
 Recommended printing technology : Multijet Fusion (PA12), SLS, Polyjet (RGD450), alternately fuse filament.
 
